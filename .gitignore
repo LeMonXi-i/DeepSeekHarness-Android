@@ -1,0 +1,14 @@
+# build artifacts
+*.apk
+!releases/*.apk
+build/
+app/build/
+
+# IDE
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# OS
+.DS_Store
